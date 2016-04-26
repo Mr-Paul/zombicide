@@ -1,2 +1,1 @@
-# zombicide
-Project
+This is a test.
